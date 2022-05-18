@@ -1,0 +1,16 @@
+{
+  "name": "pergunta-resposta-nodejs",
+  "version": "1.0.0",
+  "description": "Testando funcionamento do npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joao Taveira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "query-string": "^7.1.1",
+    "sequelize": "^6.19.1"
+  }
+}
